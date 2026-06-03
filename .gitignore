@@ -1,0 +1,7 @@
+.env
+public/images/biens/
+.DS_Store
+Thumbs.db
+*.log
+.vscode/
+.idea/
